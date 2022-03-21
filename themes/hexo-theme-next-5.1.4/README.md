@@ -369,5 +369,3 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [releases-url]: https://github.com/iissnan/hexo-theme-next/releases
 [tags-url]: https://github.com/iissnan/hexo-theme-next/tags
 [commits-url]: https://github.com/iissnan/hexo-theme-next/commits/master
-
-1111
