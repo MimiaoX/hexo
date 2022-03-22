@@ -43,7 +43,14 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+ 
+#文章折叠
+excerpt:
+  depth: 1  
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
+ 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)

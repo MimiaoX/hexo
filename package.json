@@ -9,6 +9,7 @@
     "g": "^2.0.1",
     "hexo": "^5.3.0",
     "hexo-cli": "^4.3.0",
+    "hexo-excerpt": "^1.2.1",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index-pin-top": "^0.2.2",
