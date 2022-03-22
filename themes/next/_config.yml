@@ -251,7 +251,7 @@ post_meta:
   created_at: true
   updated_at:
     enable: true
-    another_day: true
+    another_day: false
   categories: true
 
 # Post wordcount display settings
@@ -718,7 +718,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.（字数、访客统计等）
 # For more information: http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
-  enable: true
+  enable: false
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
@@ -866,7 +866,7 @@ pace:
 # Canvas ribbon
 # For more information: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: false
+  enable: true
   size: 300 # The width of the ribbon
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
@@ -891,6 +891,24 @@ vendors:
   # custom_cdn_url: https://cdn.jsdelivr.net/npm/${npm_name}@${version}/${minified}
   # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
   custom_cdn_url:
+
+#分享
+needmoreshare2:
+  enable: true
+  postbottom:
+    enable: true
+    options:
+      iconStyle: box
+      boxForm: horizontal
+      position: bottomCenter
+      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+  float:
+    enable: true
+    options:
+      iconStyle: box
+      boxForm: horizontal
+      position: topRight
+      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
 # Assets
 # Accelerate delivery of static files using a CDN
