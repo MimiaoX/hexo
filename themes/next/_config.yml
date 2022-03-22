@@ -139,12 +139,12 @@ sidebar:
 
 # Sidebar Avatar
 avatar:
-  # Replace the default image and set the url here.
+  # Replace the default image and set the url here.（设置头像）
   url: /images/avatar.jpg
-  # If true, the avatar will be displayed in circle.
-  rounded: false
-  # If true, the avatar will be rotated with the cursor.
-  rotated: true
+  # If true, the avatar will be displayed in circle.（圆头像）
+  rounded: true
+  # If true, the avatar will be rotated with the cursor.（头像随光标旋转）
+  rotated: false
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
