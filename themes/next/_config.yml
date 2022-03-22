@@ -715,9 +715,9 @@ firestore:
   apiKey: # Required
   projectId: # Required
 
-# Show Views / Visitors of the website / page with busuanzi.
+# Show Views / Visitors of the website / page with busuanzi.（字数、访客统计等）
 # For more information: http://ibruce.info/2015/04/04/busuanzi/
-busuanzi_count:#字数统计
+busuanzi_count:
   enable: true
   total_visitors: true
   total_visitors_icon: fa fa-user
