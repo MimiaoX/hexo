@@ -156,7 +156,8 @@ site_state: true
 social:
   GitHub: https://github.com/MimiaoX || fab fa-github
   E-Mail: mailto:lbx.lin@foxmail.com || fa fa-envelope
-  #Weibo: https://weibo.com/yourname || fab fa-weibo
+  QQ: https://qm.qq.com/cgi-bin/qm/qr?k=uMYAhAZJVzphYNBatlWwuQ93yFTV3KqX&noverify=0 || fab fa-qq
+  Weibo: https://weibo.com/MimiaoX || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -173,12 +174,12 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: fa fa-globe
-  title: 友情链接
+  title: Links
   # Available values: block | inline
-  layout: block
+  layout: inline
 
 links:
-Title: https://example.com
+Xian's Onedrive: https://x-eta.vercel.app/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
