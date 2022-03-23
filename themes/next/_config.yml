@@ -156,7 +156,7 @@ site_state: true
 social:
   GitHub: https://github.com/MimiaoX || fab fa-github
   E-Mail: mailto:lbx.lin@foxmail.com || fa fa-envelope
-  OneDrive: https://x-eta.vercel.app/ || fab fa-cloud-arrow-down
+  OneDrive: https://x-eta.vercel.app/ || fa fa-cloud-arrow-down
   Weibo: https://weibo.com/MimiaoX || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
