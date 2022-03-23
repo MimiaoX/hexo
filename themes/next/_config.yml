@@ -394,6 +394,24 @@ reading_progress:
   color: "#37c6c0"
   height: 3px
 
+#分享设置
+needmoreshare2:
+  enable: true
+  postbottom:
+    enable: true
+    options:
+      iconStyle: default
+      boxForm: horizontal
+      position: bottomCenter
+      networks: Weibo,Wechat,Douban,QQZone
+  float:
+    enable: false
+    options:
+      iconStyle: default
+      boxForm: horizontal
+      position: middleRight
+      networks: Weibo,Wechat,Douban,QQZone
+
 # Bookmark Support
 bookmark:
   enable: false
