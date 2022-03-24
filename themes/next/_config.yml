@@ -149,15 +149,15 @@ avatar:
 # Posts / Categories / Tags in sidebar.
 site_state: true
 
-# Social Links
+# Social Links（友情链接）
 # Usage: `Key: permalink || icon`
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
+  E-mail: mailto:lbx.lin@foxmail.com || fa fa-envelope
   GitHub: https://github.com/MimiaoX || fab fa-github
-  E-Mail: mailto:lbx.lin@foxmail.com || fa fa-envelope
-  OneDrive: https://x-eta.vercel.app/ || fa fa-cloud-arrow-down
   Weibo: https://weibo.com/MimiaoX || fab fa-weibo
+  DL-Files: https://x-eta.vercel.app/ || fa fa-file-arrow-down
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -268,14 +268,14 @@ tag_icon: false
 # Front-matter variable (nonsupport animation).
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
-  enable: false
+  enable: true
   animation: false
   #comment: Buy me a coffee
 
 reward:
-  #wechatpay: /images/wechatpay.png
-  #alipay: /images/alipay.png
-  #paypal: /images/paypal.png
+  wechatpay: /images/wechatpay.jpg
+  alipay: /images/alipay.jpg
+  银联: /images/unionpay.jpg
   #bitcoin: /images/bitcoin.png
 
 # Subscribe through Telegram Channel, Twitter, etc.
