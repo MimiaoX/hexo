@@ -144,7 +144,7 @@ avatar:
   # If true, the avatar will be displayed in circle.（圆头像）
   rounded: true
   # If true, the avatar will be rotated with the cursor.（头像随光标旋转）
-  rotated: false
+  rotated: true
 
 # Posts / Categories / Tags in sidebar.
 site_state: true
@@ -269,7 +269,7 @@ tag_icon: false
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
   enable: true
-  animation: false
+  animation: true
   #comment: Buy me a coffee
 
 reward:
@@ -663,6 +663,35 @@ rating:
 # AddThis Share. See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
 add_this_id:
+
+# NeedMoreShare2
+# Dependencies: https://github.com/theme-next/theme-next-needmoreshare2
+# For more information: https://github.com/revir/need-more-share2
+# iconStyle: default | box
+# boxForm: horizontal | vertical
+# position: top / middle / bottom + Left / Center / Right
+# networks:
+# Weibo | Wechat | Douban | QQZone | Twitter | Facebook | Linkedin | Mailto | Reddit | Delicious | StumbleUpon | Pinterest
+# GooglePlus | Tumblr | GoogleBookmarks | Newsvine | Evernote | Friendfeed | Vkontakte | Odnoklassniki | Mailru
+needmoreshare:
+  enable: true
+  cdn:
+    js: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.js
+    css: //cdn.jsdelivr.net/gh/theme-next/theme-next-needmoreshare2@1/needsharebutton.min.css
+  postbottom:
+    enable: false
+    options:
+      iconStyle: default
+      boxForm: vertical
+      position: bottomRight
+      networks: Wechat,QQZone,Weibo,Douban,Twitter,Facebook
+  float:
+    enable: true
+    options:
+      iconStyle: default
+      boxForm: horizontal
+      position: middleRight
+      networks: Wechat,QQZone,Weibo,Douban,Twitter,Facebook
 
 
 # ---------------------------------------------------------------
