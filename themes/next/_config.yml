@@ -42,8 +42,8 @@ custom_file_path:
 #scheme: Pisces
 scheme: Gemini
 
-# Dark Mode
-darkmode: false
+# Dark Mode(深色模式)
+darkmode: true
 
 
 # ---------------------------------------------------------------
