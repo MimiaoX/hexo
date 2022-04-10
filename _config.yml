@@ -44,13 +44,6 @@ highlight:
   auto_detect: false
   tab_replace:
 
-#文章折叠
-excerpt:
-  depth: 5
-  excerpt_excludes: []
-  more_excludes: []
-  hideWholePostExcerpts: false
-
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -58,7 +51,7 @@ excerpt:
 index_generator:
   path: ''
   per_page: 10
-  order_by: -date
+  order_by: -updated
   
 # Category & Tag
 default_category: uncategorized
