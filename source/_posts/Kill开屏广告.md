@@ -68,58 +68,59 @@ description: 可恶啊开屏广告！收录一些去除开屏广告的方法。
 ### 云闪付
 包名：com.unionpay
 版本：9.1.6（play版）
-目录：/data/data/com.unionpay/openAdv
+开屏广告存放目录：
+/data/data/com.unionpay/openAdv
 
 ### 星图金融（原苏宁金融）
 包名：com.suning.mobile.epa
 版本：9.1.6（play版）
-目录：/data/media/0/Android/data/com.suning.mobile.epa/cache/SNEPA
+开屏广告存放目录：
+/data/media/0/Android/data/com.suning.mobile.epa/cache/SNEPA
 
 ### 京东极速版
 包名：com.jd.jdlite
 版本：3.8.10
-活动：ADAcitivity（com.jd.jdlite.ad.ADActivity）
+开屏广告活动活动组件：
+ADAcitivity（com.jd.jdlite.ad.ADActivity）
 
 ### 掌上英雄联盟
 包名：com.tencent.qt.qtl
 版本：9.1.2
-目录：/data/media/0/Android/data/com.tencent.qt.qtl/cache/splash
+开屏广告存放目录：
+/data/media/0/Android/data/com.tencent.qt.qtl/cache/splash
 
 ### bilibili
 包名：com.bilibili.app.in
 版本：3.3.0（play版）
-下载：https://pan.lanzout.com/b0cxp10eb
+无开屏广告版下载地址：
+https://pan.lanzout.com/b0cxp10eb
 
 ### 携程旅行
 包名：ctrip.android.view
 版本：8.50.2（play版）
-目录：/data/media/0/Android/data/ctrip.android.view/cache/CTADCache/Download
-
-### 京东金融
-包名：com.jd.jrapp
-版本：6.0.30（play版）
-目录1：/data/data/com.jd.jrapp/cache/uil-images
-目录2：/data/data/com.jd.jrapp/cache/
-目录3：/data/media/0/Android/data/com.jd.jrapp/cache/uil-images
-目录4：/data/media/0/Android/data/com.jd.jrapp/cache/
-*特殊说明：~~锁定目录1后开屏广告被依次转移至目录2、目录3、目录4，再次清除广告文件后全部锁定！~~好家伙，游击战呢，依然有开屏广告，后续看是否可以抓包解决。
+开屏广告存放目录：
+/data/media/0/Android/data/ctrip.android.view/cache/CTADCache/Download
 
 ### 中国移动云盘（原和彩云网盘）
 包名：com.chinamobile.mcloud
 版本：mCloud9.1.2
-目录：/data/media/0/M_Cloud/boot_logo
+开屏广告存放目录：
+/data/media/0/M_Cloud/boot_logo
 
 ### 唯品会
 包名：mapi.appvipshop.com
 版本：8.7.7.5.1（厂商定制版）
-目录：/data/data/com.achievo.vipshop/cache/startup
+开屏广告存放目录：
+/data/data/com.achievo.vipshop/cache/startup
 
 ### 京东
 包名：com.jingdong.app.mall
 版本：11.0.4
-目录：/data/data/com.jingdong.app.mall/cache/jingdong/persist
+开屏广告存放目录：
+/data/data/com.jingdong.app.mall/cache/jingdong/persist
 
 ### QQ
 包名： com.tencent.mobileqq     
 版本：8.9.15  
-目录 `/data/media/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/vasSplashAD` 
+开屏广告存放目录：
+/data/media/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/vasSplashAD
