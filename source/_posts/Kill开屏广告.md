@@ -121,5 +121,5 @@ description: 可恶啊开屏广告！收录一些去除开屏广告的方法。
 
 ### QQ
 包名： com.tencent.mobileqq     
-版本：8.9.15     
-目录：/data/media/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/vasSplashAD     
+版本：8.9.15  
+目录 `/data/media/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/vasSplashAD` 
