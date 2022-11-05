@@ -2,7 +2,7 @@
 
 title: Kill开屏广告
 date: 2022-09-10 09:06:28
-updated: 2022-10-04 09:51:28
+updated: 2022-11-05 09:51:28
 top: false
 categories: 技巧攻略
 description: 可恶啊开屏广告！
@@ -113,3 +113,13 @@ description: 可恶啊开屏广告！
 包名：mapi.appvipshop.com
 版本：8.7.7.5.1（厂商定制版）
 目录：/data/data/com.achievo.vipshop/cache/startup
+
+### 京东
+包名：com.jingdong.app.mall
+版本：11.0.4
+目录：/data/data/com.jingdong.app.mall/cache/jingdong/persist
+
+### QQ
+包名：com.tencent.mobileqq
+版本：8.9.15
+目录：/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/vasSplashAD
