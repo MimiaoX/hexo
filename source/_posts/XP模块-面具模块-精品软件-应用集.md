@@ -118,7 +118,7 @@ LanFeng(媲美抖音+)：[点击查看](https://nalankang.lanzouo.com/b00vz18ef 
 VodkaMod(支持国内国际双版本)：[点击查看](https://nalankang.lanzoum.com/b00w9rwcd "点击查看")
 
 # 蚂蚁森林模块
-## 蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…
+**蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…**
 <img src="https://x-eta.ml/A2/A8/7.png" width="66%">
 水晶版： [点击查看](https://nalankang.lanzouo.com/b00tsmwvi "点击查看")
 秋风版： [点击查看](https://nalankang.lanzouo.com/b00tphmhg "点击查看")
@@ -126,8 +126,82 @@ VodkaMod(支持国内国际双版本)：[点击查看](https://nalankang.lanzoum
 雨季版：[点击查看](https://nalankang.lanzouo.com/b00v77tpa "点击查看")
 
 # 隐藏应用列表
-## 该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到
+**该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到**
 隐藏应用列表：[点击查看](https://nalankang.lanzouo.com/b00ujaeti "点击查看")
 Riru-Hide My Applist：[点击查看](https://nalankang.lanzouo.com/b00unry9e "点击查看")
 应用列表检测器：[点击查看](https://nalankang.lanzouo.com/b00uwpoeb "点击查看")
 隐秘空间：[点击查看](https://nalankang.lanzouo.com/b00vbys7c "点击查看")
+
+# 核心破解
+**允许降级安装应用，禁用软件包管理器签名验证，禁用APK签名验证**
+
+核心破解3.8(安卓10-12)： [点击查看](https://nalankang.lanzouo.com/b00u2j7xc "点击查看")
+核心破解2.2(安卓9-10)： [点击查看](https://nalankang.lanzouo.com/iQS6Gjdk6zi "点击查看")
+核心破解2.1(安卓8.x)： [点击查看](https://nalankang.lanzouo.com/iq7ZYjdk6ve "点击查看")
+核心破解2.0(安卓7.x)： [点击查看](https://nalankang.lanzouo.com/ic56Ljgow5g "点击查看")
+核心破解1.4(安卓4.x-6.x)： [点击查看](https://nalankang.lanzouo.com/iaKd1jdk6pi "点击查看")
+
+# 应用管理模块
+应用管理： [点击查看](https://nalankang.lanzouo.com/ibNpugt6sih "点击查看")
+阻止运行： [点击查看](https://nalankang.lanzouo.com/b00tjjhaf "点击查看")
+绿色守护： [点击查看](https://nalankang.lanzouo.com/b00tw4f3e "点击查看")
+应用控制器： [点击查看](https://nalankang.lanzouo.com/ili9Rgt6rib "点击查看")
+Thanox(灭霸)： [点击查看](https://nalankang.lanzouo.com/b00ucbm7i "点击查看")
+DeepSleep(控制应用后台唤醒)：[点击查看](https://nalankang.lanzouo.com/b00vsg6vi "点击查看")
+自动墓碑后台：[点击查看](https://nalankang.lanzouo.com/b00vxosna "点击查看")
+NoActive(墓碑)：[点击查看](https://nalankang.lanzouo.com/b00vxorzg "点击查看")
+MiTombstone(墓碑模块)：[点击查看](https://nalankang.lanzoum.com/b00vzbpng "点击查看")
+
+# 指纹支付模块
+<img src="https://x-eta.ml/A2/A8/8.jpg" width="66%">
+xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i "点击查看")
+面具Riru版：[点击查看](https://nalankang.lanzouo.com/b00utf13e "点击查看")
+面具Zygisk版：[点击查看](https://nalankang.lanzouo.com/b00v90psj "点击查看")
+
+# 取消对话框
+对话框取消： [点击查看](https://nalankang.lanzouo.com/iHJzpl4nyuh "点击查看")
+对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc "点击查看")
+对话框取消修复版：[点击查看](https://nalankang.lanzouo.com/b00vnmxqb "点击查看")
+对话框取消新版：[点击查看](https://nalankang.lanzouo.com/b00vz164d "点击查看")
+Dialbox(原对话框取消新版)：[点击查看](https://nalankang.lanzoum.com/b00wa5mkf "点击查看")
+
+# 隐私保护模块 
+<img src="https://x-eta.ml/A2/A8/9.png" width="66%">
+我的隐私：[点击查看](https://nalankang.lanzouo.com/iIw5Foda0sf "点击查看")
+X隐私保护： [点击查看](https://nalankang.lanzouo.com/b00uanape "点击查看")
+XPrivacyLua： [点击查看](https://nalankang.lanzouo.com/b00u9131a "点击查看")
+放开我的剪贴板： [点击查看](https://www.coolapk.com/apk/cn.nlifew.clipmgr "点击查看")
+
+# 酷我音乐模块
+<img src="https://x-eta.ml/A2/A8/10.png" width="66%">
+酷我酷狗VIP：[点击查看](https://nalankang.lanzouo.com/b00ujhxza "点击查看")
+酷我增强插件：[点击查看](https://nalankang.lanzouo.com/b00vpfnfa "点击查看")
+酷我VIP：[点击查看](https://nalankang.lanzouo.com/b00vlet8j "点击查看")
+酷我增强：[点击查看](https://nalankang.lanzouo.com/b00vnxgqf "点击查看")
+
+# 微信增强模块合集
+<img src="https://x-eta.ml/A2/A8/11.png" width="66%">
+V++： [点击查看](https://nalankang.lanzouo.com/iFHt3n8udfe "点击查看")
+女娲石：[点击查看](https://nalankang.lanzouo.com/tp/iva8Uuedfli "点击查看")
+微运动：[点击查看](https://nalankang.lanzouo.com/tp/iyGE2ghdg5c "点击查看")
+微X模块 ： [点击查看](https://nalankang.lanzouo.com/b00tujq4j "点击查看")
+微信分组： [点击查看](https://nalankang.lanzouo.com/b00u7165a "点击查看")
+微信群发： [点击查看](https://nalankang.lanzouo.com/b00u7164j "点击查看")
+微信密友： [点击查看](https://nalankang.lanzouo.com/b00u716hc "点击查看")
+微信增强： [点击查看](https://nalankang.lanzouo.com/b00u7311i "点击查看")
+微信斗图： [点击查看](https://nalankang.lanzouo.com/b00u7163i "点击查看")
+畅玩微信： [点击查看](https://nalankang.lanzouo.com/b00u757wh "点击查看")
+企业助手： [点击查看](https://nalankang.lanzoui.com/b00u716mh "点击查看")
+微信学英语：[点击查看](https://nalankang.lanzouo.com/b00udu6vg "点击查看")
+TSBattery(省电模块)：[点击查看](https://nalankang.lanzouo.com/b00utqtkf "点击查看")
+模拟微信摇一摇：[点击查看](https://nalankang.lanzouo.com/ibL7Xp64jze "点击查看")
+MDWechat(微信美化)： [点击查看](https://nalankang.lanzouo.com/b00u7166b "点击查看")
+去TM的微信信息流：[点击查看](https://nalankang.lanzouo.com/tp/iTrToghd41g "点击查看")
+我不需要确认：[点击查看](https://nalankang.lanzouo.com/b00v82usf "点击查看")
+QQCleaner Lite(轻量版本的瘦身模块)：[点击查看](https://nalankang.lanzouo.com/b00vrngib "点击查看")
+QQ瘦身模块(QQ/TIM/微信缓存垃圾清理)：[点击查看](https://nalankang.lanzouo.com/b00tszuzi "点击查看")
+禁用微信签名验证：[点击查看](https://nalankang.lanzouo.com/b00vv5k1e "点击查看")
+飞哥传说(企业微信抢红包)：[点击查看](https://nalankang.lanzoum.com/b00w6ipyb "点击查看")
+企微小打手(接管企业微信定位服务)：[点击查看](https://nalankang.lanzoum.com/b00w7hg4h "点击查看")
+WeChat Pad(开启手机和平板同时登陆入口)：[点击查看](https://nalankang.lanzoum.com/b00w7lwud "点击查看")
+微信群消息助手：[点击查看](https://nalankang.lanzoum.com/b00w9a34j "点击查看")
