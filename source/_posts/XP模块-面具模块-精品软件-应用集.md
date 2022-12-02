@@ -290,3 +290,108 @@ SkyOlin助手(分屏)：[点击查看](https://nalankang.lanzouo.com/b00vbffoh "
 拒绝强制亮度：[点击查看](https://nalankang.lanzouo.com/b00vj5gli "点击查看")
 设置应用全屏：[点击查看](https://nalankang.lanzouo.com/b00vloi6b "点击查看")
 进程锁：[点击查看](https://nalankang.lanzouo.com/b00vtzfkb "点击查看")
+
+# 伪装设备信息
+应用伪装： [点击查看](https://nalankang.lanzouo.com/b00u9amhe "点击查看")
+应用变量： [点击查看](https://nalankang.lanzouo.com/iFeH6h1ehxc "点击查看")
+爱玩机-应用伪装：[点击查看](https://nalankang.lanzouo.com/b00uj175i "点击查看")
+手机查看器：[点击查看](https://nalankang.lanzouo.com/b00v891id "点击查看")
+Android Faker：[点击查看](https://nalankang.lanzouo.com/b00v88yxa "点击查看")
+设备ID更改器：[点击查看](https://nalankang.lanzouo.com/b00v894xg "点击查看")
+
+# 存储重定向
+**重定向应用程序在sdcard目录下生成的文件夹和文件的路径，防止应用在sdcard目录下乱拉屎**
+
+存储重定向：[点击查看](https://nalankang.lanzouo.com/irdVpqq85gb "点击查看")
+XInternalSD： [点击查看](https://nalankang.lanzouo.com/i44wggt6jni "点击查看")
+LT NoLitter重制版： [点击查看](https://nalankang.lanzouo.com/iP7gb03mea1g "点击查看")
+
+# 强国助手模块
+**模拟点击，解放双手，学生党必备的软件 积分执行、顺序执行、挑战答题、每周答题、双人对战、四人对战**
+<img src="https://x-eta.ml/A2/A8/13.png" width="66%">
+霸王强国：[点击查看](https://nalankang.lanzouo.com/b00up7oda "点击查看")
+旺仔强国：[点击查看](https://nalankang.lanzouo.com/b00unbzje "点击查看")
+校雷锋强国：[点击查看](https://nalankang.lanzouo.com/b00umdy0f "点击查看")
+阿超强国：[点击查看](https://nalankang.lanzouo.com/b00umdy1g "点击查看")
+高级强国：[点击查看](https://nalankang.lanzouo.com/b00umdy4j "点击查看")
+学习机强国：[点击查看](https://nalankang.lanzouo.com/b00umdxyd "点击查看")
+自动学习强国：[点击查看](https://nalankang.lanzouo.com/b00upocjg "点击查看")
+时光强国：[点击查看](https://nalankang.lanzouo.com/b00uqe7fi "点击查看")
+学习助手：[点击查看](https://nalankang.lanzouo.com/b00utuj4d "点击查看")
+AI强国：[点击查看](https://nalankang.lanzouo.com/b00v0v3sj "点击查看")
+一键强国：[点击查看](https://nalankang.lanzouo.com/b00v44m8f "点击查看")
+科技强国：[点击查看](https://nalankang.lanzouo.com/b00v9lzsf "点击查看")
+强国能手：[点击查看](https://nalankang.lanzouo.com/b00ve2g7g "点击查看")
+学习一下强国：[点击查看](https://nalankang.lanzouo.com/b00vg2urc "点击查看")
+
+#  虚拟定位
+**可以模拟一个虚假的地理位置**
+<img src="https://x-eta.ml/A2/A8/14.png" width="66%">
+模拟位置： [点击查看](https://nalankang.lanzouo.com/b00tvpb1i "点击查看")
+lataclysm： [点击查看](https://nalankang.lanzouo.com/izZ3xljlaqh "点击查看")
+X定位保护：[点击查看](https://nalankang.lanzouo.com/b00ut32sd "点击查看")
+对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc "点击查看")
+虚拟定位：[点击查看](https://nalankang.lanzouo.com/b00v8fv7i "点击查看")
+
+# 翻译模块
+**把app内的文字翻译成中文**
+<img src="https://x-eta.ml/A2/A8/15.png" width="66%">
+AllTrans： [点击查看](https://nalankang.lanzouo.com/b00tngrof "点击查看")
+AllTrans使用教程：[点击查看](https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3 "点击查看")
+微信学英语：[点击查看](https://nalankang.lanzouo.com/b00udu6vg "点击查看")
+Xp快译： [点击查看](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i "点击查看")
+
+#  MIUI系统专用模块合集 
+<img src="https://x-eta.ml/A2/A8/16.png" width="66%">
+XMiTools： [点击查看](https://www.coolapk.com/apk/com.tianma.tweaks.miui "点击查看")
+小米净化： [点击查看](https://nalankang.lanzouo.com/b00tyatha "点击查看")
+MIUI全局高帧： [点击查看](https://nalankang.lanzouo.com/b00ud00wb "点击查看")
+Miui12双排状态栏： [点击查看](https://www.coolapk.com/apk/com.lz.teemo "点击查看")
+解锁MIUI键盘优化： [点击查看](https://nalankang.lanzouo.com/b00ud00la "点击查看")
+MiuiHome桌面增强模块：[点击查看](https://nalankang.lanzouo.com/b00v28daf "点击查看")
+ChiMi(MIUI增强模块)： [点击查看](https://nalankang.lanzouo.com/b00t6n0ti "点击查看")
+CustoMIUIzer(MIUI专用)： [点击查看](https://nalankang.lanzouo.com/b00tyaawb "点击查看")
+MIUI双开限制解除模块： [点击查看](https://nalankang.lanzouo.com/b00u9zola "点击查看")
+移除系统相机拍照声音模块：[点击查看](https://nalankang.lanzouo.com/b00uhrdud "点击查看")
+爱玩机-MIUI安装器：[点击查看](https://nalankang.lanzouo.com/b00ujhxte "点击查看")
+爱玩机-MIUI高级设置：[点击查看](https://nalankang.lanzouo.com/b00ujhxqb "点击查看")
+淘米水(MIUI去广吿模块)：[点击查看](https://nalankang.lanzouo.com/b00ukbeab "点击查看")
+不要多管闲事(干掉无障碍十秒等待)：[点击查看](https://nalankang.lanzouo.com/b00ulw6ch "点击查看")
+MIUI强调色：[点击查看](https://nalankang.lanzouo.com/b00ulw97a "点击查看")
+MIUltra(MIUI12.5扩展)：[点击查看](https://nalankang.lanzouo.com/b00usk4wf "点击查看")
+小米运动Hook：[点击查看](https://nalankang.lanzouo.com/b00uz62yd "点击查看")
+状态栏歌词：[点击查看](https://nalankang.lanzouo.com/b00uzgujg "点击查看")
+小米push增强模块：[点击查看](https://nalankang.lanzouo.com/b00uzzc2f "点击查看")
+隐藏MIUI勇者标识：[点击查看](https://nalankang.lanzouo.com/b00v2o9li "点击查看")
+AppLock(防止特定应用被侧滑杀死或一键清理)：[点击查看](https://nalankang.lanzouo.com/b00v4oaej "点击查看")
+MiCode(小米浏览器增强模块)：[点击查看](https://www.coolapk.com/apk/xyz.kymirai.micode "点击查看")
+独立显秒：[点击查看](https://nalankang.lanzouo.com/b00v7h4ni "点击查看")
+MIUI原生通知图标：[点击查看](https://nalankang.lanzouo.com/b00v9rnab "点击查看")
+粗粮：[点击查看](https://nalankang.lanzouo.com/b00v9zykf "点击查看")
+小米翻译+：[点击查看](https://nalankang.lanzouo.com/b00va0h4d "点击查看")
+Miui时间显秒：[点击查看](https://nalankang.lanzouo.com/b00vbja3a "点击查看")
+解锁小米妙享：[点击查看](https://nalankang.lanzouo.com/b00vbja1i "点击查看")
+WooBoxForMIUI(MIUI13系统扩展)：[点击查看](https://nalankang.lanzouo.com/b00vc2p2d "点击查看")
+解锁MIUI+：[点击查看](https://nalankang.lanzouo.com/b00vczkba "点击查看")
+不许卡米：[点击查看](https://nalankang.lanzouo.com/b00vcvnha "点击查看")
+Miui主题破解：[点击查看](https://nalankang.lanzouo.com/b00velxyj "点击查看")
+MIUI工具箱：[点击查看](https://nalankang.lanzouo.com/b00vg2u8d "点击查看")
+AppLock(防止应用被侧滑杀死或一键清理)：[点击查看](https://nalankang.lanzouo.com/b00vi88ne "点击查看")
+MIUI性能救星：[点击查看](https://nalankang.lanzouo.com/b00vi88ne "点击查看")
+MaxFreeForm(解除MIUI13多小窗限制)：[点击查看](https://nalankang.lanzouo.com/b00vlohgf "点击查看")
+MiuiMediaEditor(MIUI相册增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vn4gfa "点击查看")
+MIUI遮罩进化：[点击查看](https://nalankang.lanzouo.com/b00vm6mxa "点击查看")
+MIUI修改原生安装器：[点击查看](https://nalankang.lanzouo.com/b00vqp23i "点击查看")
+墨•桌：[点击查看](https://nalankang.lanzouo.com/b00vqp1uj "点击查看")
+AutoNFC：[点击查看](https://nalankang.lanzouo.com/b00vqs8wb "点击查看")
+MIUI QOL(系统增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vu6xof "点击查看")
+MIUI录屏进化：[点击查看](https://nalankang.lanzouo.com/b00vvd0de "点击查看")
+小米不妙·享：[点击查看](https://nalankang.lanzouo.com/b00vz17di "点击查看")
+MiTombstone(墓碑模块)：[点击查看](https://nalankang.lanzouo.com/b00vzbpng "点击查看")
+MIUI安装器进化：[点击查看](https://nalankang.lanzoum.com/b00w3euqb "点击查看")
+Miller(MUI功耗优化模块)：[点击查看](https://nalankang.lanzouo.com/b00w3s25g "点击查看")
+你这运营消息根本就全都是广告吧：[点击查看](https://nalankang.lanzoum.com/b00w65i3a "点击查看")
+MIUI更新进化：[点击查看](https://nalankang.lanzoum.com/b00w6ze6j "点击查看")
+WINI-悬浮通知模糊模块：[点击查看](https://nalankang.lanzoum.com/b00w8v9bc "点击查看")
+5G开关：[点击查看](https://nalankang.lanzoum.com/b00w9p9bc "点击查看")
+MIUI通知修复：[点击查看](https://nalankang.lanzoum.com/b00wcl3gf "点击查看")
