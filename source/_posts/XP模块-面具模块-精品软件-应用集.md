@@ -9,7 +9,7 @@ description: 搬运自酷安@午夜神
 
 ---
 # <font color=red>蓝奏云网盘统一密码：OJBK</font>
-更新日志：[点击查看](https://www.yuque.com/docs/share/3116557d-20f4-41c3-871e-1916bf9fb64c)   请我喝瓶可乐支持一下：[打赏](https://www.yuque.com/docs/share/77e2d958-c82f-4b6b-bceb-14313c60f4ec)   T.G电报频道：OJBK2333
+更新日志：[点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/ufq6er?)   请我喝瓶可乐支持一下：[打赏](https://flowery-espadrille-695.notion.site/0a1afc5f604b4fb5bcbf485e520e3d2f)   T.G电报频道：OJBK2333
 
 # Magisk
 <img src=https://x-eta.ml/A2/A8/1.png width="66%">
