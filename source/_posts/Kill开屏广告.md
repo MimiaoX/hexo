@@ -1,11 +1,11 @@
 ---
 
-title: Kill开屏广告
+title: 去除开屏广告
 date: 2022-09-10 09:06:28
 updated: 2022-11-05 09:51:28
 top: false
 categories: 技巧攻略
-description: 可恶啊开屏广告！收录一些去除开屏广告的方法。
+description: 据说安卓手机root了什么都能改，那去除广告应该也不在话下，目前还在探索阶段。
 
 ---
 
