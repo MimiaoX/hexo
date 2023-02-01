@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Xian's blog
+title: Xenos's blog
 subtitle: Just write.
 description: 花雾萦风缥缈，歌珠滴水清圆。
 keywords:
-author: Mimiao
+author: Xenos
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: next
 
 # 搜索
 search:
