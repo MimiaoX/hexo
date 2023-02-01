@@ -5,14 +5,14 @@ date: 2022-11-28 16:16:55
 updated: 2022-11-28 16:16:55
 top: false
 categories: 应用分享
-description: 搬运自酷安@午夜神
+description: XP插件通过hook可以实现很多功能，一直没有一个比较完善的仓库供国内访问，好在有大神整理，本文章搬运自酷安@午夜神，仅为自用。
 
 ---
 # <font color=red>蓝奏云网盘统一密码：OJBK</font>
 更新日志：[点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/ufq6er?)   请我喝瓶可乐支持一下：[打赏](https://flowery-espadrille-695.notion.site/0a1afc5f604b4fb5bcbf485e520e3d2f)   T.G电报频道：OJBK2333
 
 # Magisk
-<img src=https://x-eta.ml/A2/A8/1.png width="66%">
+<img src=https://x-eta.ml/A8/1.png width="66%">
 **<font style="background: yellow">【MAGISK】面具稳定版</font>**
 **<font color=red>卡刷包和管理器版本号最好一致，以免出现不必要的问题。</font>**
 
@@ -64,14 +64,14 @@ lite版面具卡刷包：[点击查看](https://nalankang.lanzouo.com/b00v8kaje)
 **面具模块合集：**[点击查看](https://nalankang.lanzouo.com/b00u8npfc)
 
 # LSPOSED框架-(安卓8.1-12)
-<img src="https://x-eta.ml/A2/A8/2.png" width="66%">
+<img src="https://x-eta.ml/A8/2.png" width="66%">
 Riru模块： [点击查看](https://nalankang.lanzouo.com/b00u7gi9g "点击查看")
 LSPosed正式版：[点击查看](https://nalankang.lanzouo.com/b00uiewlg "点击查看")
 LSPosed测试版： [点击查看](https://nalankang.lanzouo.com/b00u7rzoj "点击查看")
 安卓8.0可用版本：[点击查看](https://nalankang.lanzouo.com/b00uu1hva "点击查看")
 
 # EDXPOSED框架-(安卓8.0-11)
-<img src="https://x-eta.ml/A2/A8/3.png" width="66%">
+<img src="https://x-eta.ml/A8/3.png" width="66%">
 EDxposed管理器(分支美化版)： [点击查看](https://nalankang.lanzouo.com/b00tml4pc "点击查看")
 EdXposed管理器(官方正式版)： [点击查看](https://nalankang.lanzouo.com/b00u12ibi "点击查看")
 EdXposed管理器(官方先行版)：[点击查看](https://nalankang.lanzouo.com/b00u12i4b "点击查看")
@@ -82,13 +82,13 @@ Edxposed阿尔法(Y版)： [点击查看](https://nalankang.lanzouo.com/b00u7gq8
 Edxposed金丝雀(S版和Y版)： [点击查看](https://nalankang.lanzouo.com/b00u7h7ah "点击查看")
 
 # DREAMLAND梦境框架-(安卓7.0-12)
-<img src="https://x-eta.ml/A2/A8/4.png" width="66%">
+<img src="https://x-eta.ml/A8/4.png" width="66%">
 Riru模块： [点击查看](https://nalankang.lanzouo.com/b00u7gi9g "点击查看")
 梦境管理器：[点击查看](https://nalankang.lanzouo.com/b00uicrmf "点击查看")
 magisk-dreamland：[点击查看](https://nalankang.lanzouo.com/b00uicrad "点击查看")
 
 # 免ROOT框架
-<img src="https://x-eta.ml/A2/A8/5.png" width="66%">
+<img src="https://x-eta.ml/A8/5.png" width="66%">
 天鉴：(输入0000长按D，右上点造访-得到密码)：[点击查看](https://nalankang.lanzouo.com/b00uu09lg "点击查看")
 太极：[点击查看](https://nalankang.lanzouo.com/b00uicmcf "点击查看")
 应用转生： [点击查看](https://nalankang.lanzouo.com/b00u1wq0f "点击查看")
@@ -103,7 +103,7 @@ LSPatch测试版：[点击查看](https://nalankang.lanzouo.com/b00vvd26j "点�
 X开：[点击查看](https://nalankang.lanzouo.com/b00vvyaxa "点击查看")
 
 # 抖音模块
-<img src="https://x-eta.ml/A2/A8/6.png" width="66%">
+<img src="https://x-eta.ml/A8/6.png" width="66%">
 抖音助手： [点击查看](https://nalankang.lanzouo.com/b00um3gmj "点击查看")
 抖音+： [点击查看](https://nalankang.lanzouo.com/b00u6mqej "点击查看")
 抖音伴侣： [点击查看](https://nalankang.lanzouo.com/b00t5ypuj "点击查看")
@@ -119,7 +119,7 @@ VodkaMod(支持国内国际双版本)：[点击查看](https://nalankang.lanzoum
 
 # 蚂蚁森林模块
 **蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…**
-<img src="https://x-eta.ml/A2/A8/7.png" width="66%">
+<img src="https://x-eta.ml/A8/7.png" width="66%">
 水晶版： [点击查看](https://nalankang.lanzouo.com/b00tsmwvi "点击查看")
 秋风版： [点击查看](https://nalankang.lanzouo.com/b00tphmhg "点击查看")
 蜡笔小新版：点击查看
@@ -153,7 +153,7 @@ NoActive(墓碑)：[点击查看](https://nalankang.lanzouo.com/b00vxorzg "点�
 MiTombstone(墓碑模块)：[点击查看](https://nalankang.lanzoum.com/b00vzbpng "点击查看")
 
 # 指纹支付模块
-<img src="https://x-eta.ml/A2/A8/8.jpg" width="66%">
+<img src="https://x-eta.ml/A8/8.jpg" width="66%">
 xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i "点击查看")
 面具Riru版：[点击查看](https://nalankang.lanzouo.com/b00utf13e "点击查看")
 面具Zygisk版：[点击查看](https://nalankang.lanzouo.com/b00v90psj "点击查看")
@@ -166,14 +166,14 @@ xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i "点击查看
 Dialbox(原对话框取消新版)：[点击查看](https://nalankang.lanzoum.com/b00wa5mkf "点击查看")
 
 # 隐私保护模块
-<img src="https://x-eta.ml/A2/A8/9.png" width="66%">
+<img src="https://x-eta.ml/A8/9.png" width="66%">
 我的隐私：[点击查看](https://nalankang.lanzouo.com/iIw5Foda0sf "点击查看")
 X隐私保护： [点击查看](https://nalankang.lanzouo.com/b00uanape "点击查看")
 XPrivacyLua： [点击查看](https://nalankang.lanzouo.com/b00u9131a "点击查看")
 放开我的剪贴板： [点击查看](https://www.coolapk.com/apk/cn.nlifew.clipmgr "点击查看")
 
 # 酷我音乐模块
-<img src="https://x-eta.ml/A2/A8/10.png" width="66%">
+<img src="https://x-eta.ml/A8/10.png" width="66%">
 酷我酷狗VIP：[点击查看](https://nalankang.lanzouo.com/b00ujhxza "点击查看")
 酷我增强插件：[点击查看](https://nalankang.lanzouo.com/b00vpfnfa "点击查看")
 酷我VIP：[点击查看](https://nalankang.lanzouo.com/b00vlet8j "点击查看")
@@ -214,7 +214,7 @@ Hook Vip(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b
 FakeFL(Fake Location模块)：[点击查看](https://nalankang.lanzoum.com/b00wcp60b "点击查看")
 
 # 微信增强模块合集
-<img src="https://x-eta.ml/A2/A8/11.png" width="66%">
+<img src="https://x-eta.ml/A8/11.png" width="66%">
 V++： [点击查看](https://nalankang.lanzouo.com/iFHt3n8udfe "点击查看")
 女娲石：[点击查看](https://nalankang.lanzouo.com/tp/iva8Uuedfli "点击查看")
 微运动：[点击查看](https://nalankang.lanzouo.com/tp/iyGE2ghdg5c "点击查看")
@@ -241,7 +241,7 @@ WeChat Pad(开启手机和平板同时登陆入口)：[点击查看](https://nal
 微信群消息助手：[点击查看](https://nalankang.lanzoum.com/b00w9a34j "点击查看")
 
 # QQ增强模块合集
-<img src="https://x-eta.ml/A2/A8/12.png" width="66%">
+<img src="https://x-eta.ml/A8/12.png" width="66%">
 QN(增强模块)： [点击查看](https://nalankang.lanzouo.com/b00tsdawd "点击查看")
 QX(增强模块)： [点击查看](https://nalankang.lanzouo.com/b00u0c8md "点击查看")
 绿豆(增强模块)：[点击查看](https://nalankang.lanzouo.com/b00u74h3c "点击查看")
@@ -308,7 +308,7 @@ LT NoLitter重制版： [点击查看](https://nalankang.lanzouo.com/iP7gb03mea1
 
 # 强国助手模块
 **模拟点击，解放双手，学生党必备的软件 积分执行、顺序执行、挑战答题、每周答题、双人对战、四人对战**
-<img src="https://x-eta.ml/A2/A8/13.png" width="66%">
+<img src="https://x-eta.ml/A8/13.png" width="66%">
 霸王强国：[点击查看](https://nalankang.lanzouo.com/b00up7oda "点击查看")
 旺仔强国：[点击查看](https://nalankang.lanzouo.com/b00unbzje "点击查看")
 校雷锋强国：[点击查看](https://nalankang.lanzouo.com/b00umdy0f "点击查看")
@@ -326,7 +326,7 @@ AI强国：[点击查看](https://nalankang.lanzouo.com/b00v0v3sj "点击查看"
 
 #  虚拟定位
 **可以模拟一个虚假的地理位置**
-<img src="https://x-eta.ml/A2/A8/14.png" width="66%">
+<img src="https://x-eta.ml/A8/14.png" width="66%">
 模拟位置： [点击查看](https://nalankang.lanzouo.com/b00tvpb1i "点击查看")
 lataclysm： [点击查看](https://nalankang.lanzouo.com/izZ3xljlaqh "点击查看")
 X定位保护：[点击查看](https://nalankang.lanzouo.com/b00ut32sd "点击查看")
@@ -335,14 +335,14 @@ X定位保护：[点击查看](https://nalankang.lanzouo.com/b00ut32sd "点击�
 
 # 翻译模块
 **把app内的文字翻译成中文**
-<img src="https://x-eta.ml/A2/A8/15.png" width="66%">
+<img src="https://x-eta.ml/A8/15.png" width="66%">
 AllTrans： [点击查看](https://nalankang.lanzouo.com/b00tngrof "点击查看")
 AllTrans使用教程：[点击查看](https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3 "点击查看")
 微信学英语：[点击查看](https://nalankang.lanzouo.com/b00udu6vg "点击查看")
 Xp快译： [点击查看](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i "点击查看")
 
 #  MIUI系统专用模块合集 
-<img src="https://x-eta.ml/A2/A8/16.png" width="66%">
+<img src="https://x-eta.ml/A8/16.png" width="66%">
 XMiTools： [点击查看](https://www.coolapk.com/apk/com.tianma.tweaks.miui "点击查看")
 小米净化： [点击查看](https://nalankang.lanzouo.com/b00tyatha "点击查看")
 MIUI全局高帧： [点击查看](https://nalankang.lanzouo.com/b00ud00wb "点击查看")
