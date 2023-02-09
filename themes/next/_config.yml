@@ -274,9 +274,9 @@ reward_settings:
   #comment: Buy me a coffee
 
 reward:
-  wechatpay: /images/wechatpay.jpg
-  alipay: /images/alipay.jpg
-  银联: /images/unionpay.jpg
+  wechatpay: /images/skm.png
+  #alipay: /images/alipay.jpg
+  #银联: /images/unionpay.jpg
   #bitcoin: /images/bitcoin.png
 
 # Subscribe through Telegram Channel, Twitter, etc.
