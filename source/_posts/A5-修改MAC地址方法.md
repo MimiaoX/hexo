@@ -15,21 +15,21 @@ description: 由于某校的校园网存在一个账号只能一台手机和一�
 
 ### 什么是MAC地址
 起初我猜想是不是通过IP地址限制了一台电脑和一台手机的使用，但是很遗憾并不是，IP地址并不能识别设备。
-<img src="https://x-eta.ml/A5/IP地址.png" width="80%">
+<img src="https://https://sky.x-gap.ml/d/Config/IPpng" width="80%"/>
 而这个物理地址（MAC地址）才是重点。
-<img src="https://x-eta.ml/A5/MAC地址.png" width="80%">
+<img src="https://https://sky.x-gap.ml/d/Config/MAC.png" width="80%"/>
 
 ### 如何修改MAC地址
 用【MT管理器】 打开/mnt/vendor/persist 打开/mnt/vendor/persist，在这里新建一个文件夹名字为wlan，如图
-<img src="https://x-eta.ml/A5/0.jpg" width="80%">
+<img src="https://sky.x-gap.ml/d/Config/A5-1.jpg" width="80%"/>
 然后点进去，新建一个文件叫wlan_mac.bin
-<img src="https://x-eta.ml/A5/1.jpg" width="80%">
+<img src="https://sky.x-gap.ml/d/Config/A5-1.jpg" width="80%"/>
 接下来我们用编辑文本方式打开它，输入wlan0=你的MAC地址，例如wlan0=6A518AC70A1C，用字母和数字的组合，MAC地址一般是12个字符
-<img src="https://x-eta.ml/A5/2.jpg" width="80%">
+<img src="https://sky.x-gap.ml/d/Config/A5-1.jpg" width="80%"/>
 然后返回保存，重启手机，你的MAC地址就修改/恢复成功了，打开WLAN，去设置-我的设备-全部参数-状态信息中找到设备WLAN MAC地址看看是否修改成功
-<img src="https://x-eta.ml/A5/3.jpg" width="80%">
+<img src="https://sky.x-gap.ml/d/Config/A5-1.jpg" width="80%"/>
 在MIUI12（Android10）中，不用新建wlan文件夹，直接在/mnt/vendor/persist中进行上述步骤即可，若还是不成功可以将MAC写为两行，如图
-<img src="https://x-eta.ml/A5/4.jpg" width="80%">
+<img src="https://sky.x-gap.ml/d/Config/A5-1.jpg" width="80%"/>
 
 ### 个人总结
 &emsp;&emsp;根据以上操作之后本人MAC地址修改成功，并且可以模拟电脑上网，但是手机修改MAC地址难度高（主要是指Root门槛），不同手机还不尽相同，而且仅通过MAC地址是如何识别是手机和电脑的呢，手机型号写在System下的bulid.prop内，但实际上又是工具MAC地址来限制上网设备的。
