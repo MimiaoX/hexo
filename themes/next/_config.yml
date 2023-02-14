@@ -276,7 +276,7 @@ reward_settings:
 reward:
   #wechatpay: /images/skm.png
   #alipay: /images/alipay.jpg
-  感谢支持: /images/support.jpg
+  感谢支持: /images/support.png
   #bitcoin: /images/bitcoin.png
 
 # Subscribe through Telegram Channel, Twitter, etc.
