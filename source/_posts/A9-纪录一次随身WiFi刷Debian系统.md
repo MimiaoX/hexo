@@ -1,7 +1,7 @@
 ---
 
 title: 记录一次随身WiFi刷Debian系统
-date: 2022-11-28 16:16:55
+date: 2023-02-23 16:16:55
 updated: 
 top: false
 categories: 学习资料
@@ -25,17 +25,16 @@ description: 高通骁龙410的随身WiFi，刷入Debian之后可以变成小型
 <img src="https://sky.x-gap.ml/d/Config/A9-4.jpg"/>
 
 ### 备份基带分区文件
-1.用9008Tool备份基带文件(不要插卡），先扫描出分区再备份，有以下几个文件
-fsc、fsg、modemst1、modemst2、modem（备份后为NON-HLOS.bin）
+1.用9008Tool备份基带文件(不要插卡），先扫描出分区再备份，有以下几个文件fsc、fsg、modemst1、modemst2、modem（备份后为NON-HLOS.bin）
 <img src="https://sky.x-gap.ml/d/Config/A9-5.png"/>
-2.分别重命名为备用
-fsc.bin、fsg.bin、modemst1.bin、modemst2.bin、NON-HLOS.img
+2.分别重命名为fsc.bin、fsg.bin、modemst1.bin、modemst2.bin、NON-HLOS.img备用
 <img src="https://sky.x-gap.ml/d/Config/A9-6.png"/>
+3.顺便备份boot分区，重命名为boot.img，方便root
 
 ### 备份QCN基带（高通串号）
-1.将随身WiFi恢复出厂设置开启adb，顺便切卡看看能不能用自己卡上网（切卡密码UFIadmin1234）
+1.将随身WiFi恢复出厂设置开启adb，顺便切卡看看能不能用自己卡上网，每个棒子切卡密码不一样，我的是UFIadmin1234
 <img src="https://sky.x-gap.ml/d/Config/A9-7.jpg"/>
-2.这一步需要获取root权限，自己装个面具修补一下boot即可，开端口时在投屏上允许shell获取root
+2.这一步需要获取root权限，自己装个面具修补一下boot即可，开端口时在投屏上允许shell获取root权限
 <img src="https://sky.x-gap.ml/d/Config/A9-8.jpg"/>
 <img src="https://sky.x-gap.ml/d/Config/A9-9.jpg"/>
 
@@ -44,7 +43,7 @@ fsc.bin、fsg.bin、modemst1.bin、modemst2.bin、NON-HLOS.img
 <img src="https://sky.x-gap.ml/d/Config/A9-10.jpg"/>
 
 ### 刷入Debian
-1.安卓下重启到fastboot，将备份的基带fsc.bin、fsg.bin、modemst1.bin、modemst2.bin替换掉Debian文件夹里的文件
+1.安卓下重启到fastboot，将备份的基带fsc.bin、fsg.bin、modemst1.bin、modemst2.bin替换掉刷Debian系统文件夹里的文件
 <img src="https://sky.x-gap.ml/d/Config/A9-11.png"/>
 
 2.双击一键刷入，按提示刷入即可
@@ -65,14 +64,13 @@ fsc.bin、fsg.bin、modemst1.bin、modemst2.bin、NON-HLOS.img
 未知设备里也没有就把Android Device驱动更新成Composite USB Device驱动就会出现未知设备了，再重复上述步骤
 
 ### 恢复剩余基带文件
-1.使用finalshell连接随身WiFi
+1.使用finalshell连接随身WiFi，不同的包参数不一样，自己看作者介绍
 主机：10.42.0.1
 用户名：root
 密码：1313144
 
 2.电脑安装DiskGenius
-依次点击：磁盘-打开虚拟磁盘文件-NON-HLOS.img-主分区，右键，把image文件夹复制到桌面
-进入debian系统，将image文件夹里面的文件，复制到debian的/usr/lib/firmware/文件夹里
+依次点击：磁盘-打开虚拟磁盘文件-NON-HLOS.img-主分区，右键，把image文件夹复制到桌面，进入Debian系统，将image文件夹里面的文件，复制到debian的/usr/lib/firmware/文件夹里
 <img src="https://sky.x-gap.ml/d/Config/A9-19.png"/>
 <img src="https://sky.x-gap.ml/d/Config/A9-20.jpg"/>
 
@@ -179,7 +177,7 @@ cat /etc/docker/daemon.json
 systemctl restart docker && systemctl status docker && reboot
 ```
 
-10.重启后再次连接ssh，输入：sudo docker version，查看当前的docker安装状态
+10.重启后再次连接ssh，输入：`sudo docker version`，查看当前的docker安装状态
 
 11.安装面板：
 ```shell
@@ -224,12 +222,7 @@ docker run -dit \
 登录地址：http://你的ip地址:5700
 
 3.安装依赖
-进入docker面板 FAST OS DOCKER，在容器中找到QingLong，点击控制台并连接
-执行：
-```shell
-curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/bean661/utils/main/QLOneKeyDependency.sh | sh
-```
-自动安装时间比较长，耐心等待依赖安装完成
+建议不要自动安装依赖，容易卡死棒子，手动安装需要的依赖即可
 
 ## Docker搭建Alist
 Alist发行版本稳定版，端口5244
@@ -321,3 +314,46 @@ cloudflared service install
 systemctl start cloudflared
 ```
 9.现在任意网络访问sky.sauh.com就可以访问到我们搭建在本地5244端口的Alist了
+
+10.实现不同二级域名对应不同端口的内网穿透
+配置文件这么写
+```
+tunnel: 2e5c689a-****-****-****-94786210ff72
+credentials-file: /root/.cloudflared/2e5c689a-****-****-****-94786210ff72.json
+protocol: http2
+originRequest:
+ connectTimeout: 30s
+ noTLSVerify: false
+ingress:
+
+  - hostname: sky.sauh.com
+    service: http://10.42.0.1:5244
+
+ - hostname: qinglong.sauh.com
+    service: http://10.42.0.1:5700
+
+  - service: http_status:404
+```
+在同一隧道记录新的dns
+```
+cloudflared tunnel route dns skylist qinglong.sauh.com
+```
+这样就实现了不同二级域名访问不同端口
+
+## 随身WiFi清理
+折腾到这基本结束了，还能再搭建个博客，以后弄了再更新教程，系统内有一些缓存垃圾，使用如下命令删除
+```
+apt-get clean
+journalctl --vacuum-size=5M
+echo > /var/log/syslog
+echo > /var/log/syslog.1
+echo > /var/log/mail.log.1
+echo > /var/log/mail.info.1
+echo > /var/log/mail.warn.1
+echo > /var/log/mail.err.1
+echo > /var/log/mail.log
+echo > /var/log/mail.info
+echo > /var/log/mail.warn
+echo > /var/log/mail.err
+```
+可以制作定时任务定期清理
